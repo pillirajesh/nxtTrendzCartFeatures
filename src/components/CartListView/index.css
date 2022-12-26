@@ -1,0 +1,18 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.remove-all-heading {
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 18px;
+  color: #0b69ff;
+}
+
+.remove-button1 {
+  border: none;
+  background-color: transparent;
+  width: 120px;
+  outline: none;
+  cursor: pointer;
+}
